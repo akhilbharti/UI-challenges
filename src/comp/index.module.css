@@ -1,0 +1,31 @@
+.button{
+    position: relative;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    padding: 0.7rem 1.2rem;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content:center;
+    height: 34px;
+    min-width: 96px;
+    border-radius: 4px;
+    background-color: #2408d4;
+    border: 1px solid;
+    color: #fff;
+    -webkit-transition: background 0.2s ease;
+    -moz-transition: background 0.2s ease;
+    -o-transition: background 0.2s ease;
+    transition: background 0.2s ease;
+}
+.large{
+    font-size: 20px;
+}
+.error{
+    background-color: red;
+}
+
+.basic{
+    background-color: bisque;
+}
